@@ -14,10 +14,12 @@ class String
   end
 
   def exclamation?
-
+"Hi!"end_with?("!")
+self.exclamation?=exclamation
   end
 
   def count_sentences
+    
 
   end
 end
