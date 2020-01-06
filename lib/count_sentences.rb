@@ -19,6 +19,9 @@ self.exclamation?=exclamation
   end
 
   def count_sentences
+    a = "hey hey hey "
+    a.split 
+    
     
 
   end
