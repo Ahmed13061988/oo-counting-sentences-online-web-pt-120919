@@ -20,7 +20,9 @@ self.exclamation?=exclamation
 
   def count_sentences
     a = "hey hey hey "
-    a.split 
+    a.split.count 
+    binding.pry 
+    
     
     
 
