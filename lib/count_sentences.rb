@@ -9,7 +9,7 @@ class String
 
   def question?
     "Hi!".end_with?("?")
-    
+    self.question?=question
 
   end
 
