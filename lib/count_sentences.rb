@@ -8,6 +8,8 @@ class String
   end
 
   def question?
+    "Hi!".end_with?("?")
+    
 
   end
 
